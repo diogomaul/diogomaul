@@ -3,7 +3,8 @@
 - ⚡ Whoami: I'm an easy going guy that loves a bit of everything: Techonology, sports, travelling, games, nature, beer, music, dogs... 
 
 - 🔭 I’m currently working mostly with IaC Projects, deploying Azure resources using Terraform.
-- 🌱 I’m currently learning Python. By the way, hereis my Pluralsight Profile <a href="https://app.pluralsight.com/profile/diogo-maul-72" target="_blank" rel="noopener noreferrer"><img src="https://github.com/diogomaul/images/blob/main/pluralsight-logo.png" align="center" alt="Pluralsight Profile Diogo Maul" height="30" width="30"></a> 
+- 🌱 I’m currently learning Python and trying to improve my overall DevOps knowledge. 
+- By the way, here is my Pluralsight Profile <a href="https://app.pluralsight.com/profile/diogo-maul-72" target="_blank" rel="noopener noreferrer"><img src="https://github.com/diogomaul/images/blob/main/pluralsight-logo.png" align="center" alt="Pluralsight Profile Diogo Maul" height="30" width="30"></a> 
 <div style="display: inline_block">
    <h2  > Technologies and Tools  <h2>
       <img align="center" alt="Diogo-Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg">
