@@ -11,6 +11,18 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- -->
+- 
 
+<a href="https://instagram.com/mayara.s.bueno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
 
+  <a href="https://www.linkedin.com/in/diogomaul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <br>
+   
+
+<div style="display: inline_block"><br>
+   <h2  > Tecnologias <h2>
+
+    <img align="center" alt="may-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="may-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg">
+
+</div>
