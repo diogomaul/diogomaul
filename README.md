@@ -27,21 +27,7 @@
 
     <img align="center" alt="Diogo-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Diogo-Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg">
-
-  ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
-
-   
-   ###  <h1  align="center">  𝓗𝓲 𝓶𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓶𝓪𝔂𝓪𝖗𝓪 🚀  </H1>  
-
-<p align="center">
-  <a href="https://github.com/mayaralbueno/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
-</p>
- 
-
-- 👩🏽‍💻  Sou desenvolvedora web Full Stack jr
-- 🧠Atualmente estou cursando faculdade de sistemas de  informação
-- 👩‍🎓 Realizei o Bootcamp da Generation Brasil         
-- 📫 How to reach me: luziamayara83@gmail.com 
+  
 -  📰 [Portfólio](https://optimistic-wiles-c863e5.netlify.app)
 -  📰 [Climatika](https://climatika-store.netlify.app/)
 - 📑[Pokedex](https://vibrant-benz-f6bfb8.netlify.app/#)
@@ -58,14 +44,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaralbueno&layout=compact&langs_count=7&theme=radical"/>
 </div>  
     
- 
- 
-  
- 
- 
- 
- 
- <br>
+  <br>
     
 <a href="https://instagram.com/mayara.s.bueno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayara-bueno-b9bb55212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -88,14 +67,6 @@
        <img align="center" alt="may-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
 
-
-     
-
-
-     
-
-
-
 </div>
  
      
@@ -109,26 +80,11 @@
 
 
 
-     
-
-
-
-
-
-
-
 </div>
  
 
- 
-
-
 <br>
 
-  
-  
-  
-  
   
   ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 </div>
