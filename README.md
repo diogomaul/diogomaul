@@ -1,4 +1,4 @@
-<h1> ### Hi there 👋 my name is Diogo Maul :) <h1>
+<h2> ### Hi there 👋 my name is Diogo Maul :) </h2>
 
 - ⚡ Whoami: I'm an easy going guy that loves a bit of everything: Techonology, sports, travelling, games, nature, beer, music, dogs... 
 
