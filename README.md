@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working mostly with Terraform projects, deploying any kind of Azure resources using IaC.
 - 🌱 I’m currently learning Python. By the way, my public Pluralsight Profile is https://app.pluralsight.com/profile/diogo-maul-72
-- 📫 You can find me on LinkedIn as well: https://www.linkedin.com/in/diogomaul/
+- 📫 You can find me on LinkedIn as well: 
+<a href="https://www.linkedin.com/in/diogomaul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <br>
 
 
 <!--
