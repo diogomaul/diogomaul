@@ -29,9 +29,10 @@
 <a href="https://twitter.com/diogomaul" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/diogomaul" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
       
 <!--
+![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
+      
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
