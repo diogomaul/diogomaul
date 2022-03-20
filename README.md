@@ -24,5 +24,5 @@
     <img align="center" alt="Diogo-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Diogo-Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg">
 
-  https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg
-  
+  ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
+
