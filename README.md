@@ -8,9 +8,10 @@
    <h2  > Technologies and Tools  <h2>
       <img align="center" alt="Diogo-Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img align="center" alt="may-Csharp" height="55" width="55" src="https://github.com/diogomaul/images/blob/main/powershell-logo3.png">
+      <img align="center" alt="may-Csharp" height="50" width="50" src="https://github.com/diogomaul/images/blob/main/powershell-logo3.png">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <img align="center" alt="may-Csharp" height="50" width="45" src="https://github.com/diogomaul/images/blob/main/terraform-logo.png">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://github.com/diogomaul/images/blob/main/windows-logo.png">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
@@ -19,7 +20,6 @@
       
 <br>
  
-  ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 </div>
       
 - 📫 You can find me on:
@@ -28,6 +28,7 @@
 <a href="https://twitter.com/diogomaul" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/diogomaul" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
+![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
       
 <!--
 - 👯 I’m looking to collaborate on ...
