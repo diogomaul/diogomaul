@@ -3,7 +3,7 @@
 - ⚡ Whoami: I'm an easy going guy that loves a bit of everything: Techonology, sports, travelling, games, nature, beer, music, dogs... 
 
 - 🔭 I’m currently working mostly with Terraform projects, deploying any kind of Azure resources using IaC.
-- 🌱 I’m currently learning Python. By the way, my public Pluralsight Profile is https://app.pluralsight.com/profile/diogo-maul-72
+- 🌱 I’m currently learning Python. By the way, hereis my Pluralsight Profile <img align="center" alt="may-Csharp" height="40" width="100" src="https://github.com/diogomaul/images/blob/main/pluralsight-logo.png">
 - 📫 You can find me on: 
 <br>
 <a href="https://www.linkedin.com/in/diogomaul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -21,6 +21,7 @@
    <h2  > Technologies and Tools  <h2>
       <img align="center" alt="Diogo-Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img align="center" alt="may-Csharp" height="70" width="70" src="https://github.com/diogomaul/images/blob/main/powershell-logo.png">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
       <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
 
