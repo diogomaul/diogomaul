@@ -4,7 +4,7 @@
 - 🔭 I’m currently working mostly with IaC Projects, deploying Azure resources using Terraform.
 - 🌱 I’m currently learning Python to increse my DevOps skills set. 
 - 💬 Come and see my personal website: https://www.diogomaul.com.br
-- 🤔 By the way, here is my Pluralsight Profile <a href="https://app.pluralsight.com/profile/diogo-maul-72" target="_blank" rel="noopener noreferrer"></a> 
+- 🤔 By the way, here is my <a href="https://app.pluralsight.com/profile/diogo-maul-72" target="_blank" rel="noopener noreferrer">Pluralsight Profile</a> 
 <div style="display: inline_block">
    <h2  > Technologies and Tools  <h2>
       <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
