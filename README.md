@@ -7,7 +7,7 @@
 - 🤔 By the way, here is my Pluralsight Profile <a href="https://app.pluralsight.com/profile/diogo-maul-72" target="_blank" rel="noopener noreferrer"><img src="https://github.com/diogomaul/images/blob/main/pluralsight-logo.png" align="center" alt="Pluralsight Profile Diogo Maul" height="30" width="30"></a> 
 <div style="display: inline_block">
    <h2  > Technologies and Tools  <h2>
-      <img align="center" alt="Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg">
+      <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
       <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
       <img align="center" alt="PowerShell" height="50" width="50" src="https://github.com/diogomaul/images/blob/main/powershell-logo3.png">
       <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
