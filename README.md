@@ -12,9 +12,9 @@
       <img align="center" alt="PowerShell" height="50" width="50" src="https://github.com/diogomaul/images/blob/main/powershell-logo3.png">
       <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-      <img align="center" alt="Terraform" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/terraform/terraform-original.svg">
+      <img align="center" alt="Terraform" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
       <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-      <img align="center" alt="Windows" height="50" width="50" src="https://raw.githubusercontent.com/diogomaul/images/main/windows-logo.png">
+      <img align="center" alt="Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
       <img align="center" alt="Linux Ubuntu" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
 
 </div>
