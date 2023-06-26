@@ -2,7 +2,7 @@
 
 - ⚡ Whoami: I'm an easy going guy that loves a bit of everything: Techonology, sports, travelling, games, nature, beer, music, dogs... 
 - 🔭 I’m currently working mostly with IaC Projects, deploying Azure resources using Terraform.
-- 🌱 I’m currently learning Python to increse my DevOps skills set. 
+- 🌱 I’m currently learning Python to increase my DevOps tools skills set. 
 - 💬 Come and see my personal website: https://www.diogomaul.com.br
 - 🤔 By the way, here is my <a href="https://app.pluralsight.com/profile/diogo-maul-72" target="_blank" rel="noopener noreferrer">Pluralsight Profile</a> 
 <div style="display: inline_block">
